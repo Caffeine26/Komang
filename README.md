@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Komang
+A Web-Based Multi-Tenant Food Ordering System lets multiple restaurants share one platform. Customers can view menus, add items to a cart, and place orders online. Vendors manage their menu and orders, while administrators oversee the system. Role-based access keeps data secure and ensures users see only what’s relevant.
+>>>>>>> 879ce58dd3b9d2bf96c7b1d55ff83e5ad49702ba
